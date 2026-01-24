@@ -1,0 +1,78 @@
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+
+title: Diego A. Canales
+first_name: Diego
+middle_name: A.
+last_name: Canales
+email: diego.canales@tec.mx
+description: >
+  Assistant Professor of Economics at Tecnológico de Monterrey. 
+  Research in public finance, game theory, and electoral competition.
+keywords: economics, public finance, game theory, electoral competition, Mexico
+
+url: https://diegoacanales.github.io
+baseurl: "" # leave empty for user pages
+
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+
+github_username: diegoacanales
+twitter_username: diego_econ
+linkedin_username: diego-canales
+orcid_id: 0009-0007-7436-7736
+google_scholar_id: # Add your Google Scholar ID if you have one
+
+# -----------------------------------------------------------------------------
+# Build settings
+# -----------------------------------------------------------------------------
+
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Jekyll plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+# Sass settings
+sass:
+  style: compressed
+
+# Navigation
+nav_order:
+  - about
+  - research
+  - teaching
+  - cv
+
+# -----------------------------------------------------------------------------
+# Optional features
+# -----------------------------------------------------------------------------
+
+enable_math: true           # Enable MathJax for LaTeX rendering
+enable_tooltips: true
+enable_darkmode: true
+
+# -----------------------------------------------------------------------------
+# Analytics (optional)
+# -----------------------------------------------------------------------------
+# google_analytics: UA-XXXXXXXXX-X
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - vendor

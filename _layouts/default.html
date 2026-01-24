@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <meta name="keywords" content="{{ site.keywords }}">
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="{{ '/assets/img/favicon.png' | relative_url }}">
+  
+  <!-- Font Awesome for icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&family=Source+Serif+Pro:wght@400;600&display=swap" rel="stylesheet">
+  
+  <!-- Main CSS -->
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  
+  {% if site.enable_math %}
+  <!-- MathJax for LaTeX rendering -->
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  {% endif %}
+  
+  <!-- SEO -->
+  {% seo %}
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <nav class="navbar">
+        <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
+        <ul class="nav-links">
+          <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>About</a></li>
+          <li><a href="{{ '/research/' | relative_url }}" {% if page.url contains 'research' %}class="active"{% endif %}>Research</a></li>
+          <li><a href="{{ '/teaching/' | relative_url }}" {% if page.url contains 'teaching' %}class="active"{% endif %}>Teaching</a></li>
+          <li><a href="{{ '/cv/' | relative_url }}" {% if page.url contains 'cv' %}class="active"{% endif %}>CV</a></li>
+        </ul>
+        <button class="mobile-menu-toggle" aria-label="Toggle menu">
+          <i class="fas fa-bars"></i>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="site-content">
+    <div class="container">
+      {{ content }}
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>
+        &copy; {{ 'now' | date: "%Y" }} {{ site.first_name }} {{ site.last_name }}. 
+        Powered by <a href="https://jekyllrb.com">Jekyll</a> and hosted on 
+        <a href="https://pages.github.com">GitHub Pages</a>.
+      </p>
+    </div>
+  </footer>
+
+  <!-- Mobile menu script -->
+  <script>
+    document.querySelector('.mobile-menu-toggle').addEventListener('click', function() {
+      document.querySelector('.nav-links').classList.toggle('active');
+    });
+  </script>
+</body>
+</html>
