@@ -45,6 +45,10 @@ collections:
     output: true
     permalink: /projects/:path/
 
+# Include _pages directory
+include:
+  - _pages
+
 # Sass settings
 sass:
   style: compressed
