@@ -6,56 +6,59 @@ permalink: /teaching/
 
 # Teaching
 
-## Current Courses (Tecnológico de Monterrey)
+## Full-Time Professor
+**Tecnológico de Monterrey, Campus Puebla** — Economics Department  
+*July 2022 – Present*
 
-### Mathematical Finance
-*Undergraduate*
-
-Introduction to financial mathematics with emphasis on derivations from first principles, 
-mental math techniques, and practical Python applications.
-
-**Topics:** Time value of money, bond pricing, portfolio theory, derivatives pricing, 
-numerical methods in Python
-
----
-
-### Investigación Jurídica Aplicada
-*Law School*
-
-Project-based learning course helping law students overcome math aversion through 
-technological scaffolding and applied research methods.
-
-**Innovation:** Implemented statistical analysis modules with Python/Google Colab 
-to make quantitative methods accessible to non-technical students.
+- EC1014 - Microeconomics
+- EC1015 - Behavioural Economics
+- EC1016 - Economic Decision Making
+- EC2029 - Econometrics Fundamentals
+- EC2003B - Consumer and Producer Incentives
+- EC2005B - Economic Competition
+- EC2006B - Strategic Decisions in Markets and Institutions
+- EC3002B - Solution and Evaluation of Economic Problems
+- EC3003B - Research and Economic Consulting
 
 ---
 
-## CADI Program
+## Teaching Associate/Fellow
+**The University of Nottingham, School of Economics**  
+*September 2019 – August 2022*
 
-I am involved with the Critical Thinking & Writing (CADI) initiative at Tecnológico de Monterrey, 
-developing pedagogical frameworks that integrate analytical reasoning across disciplines.
+- Advanced Microeconomics
+- Advanced Industrial Economics
+- Advanced Mathematical Economics
+- Advanced Political Economy
+- Advanced Labour Economics
+- Advanced Public Economics
+- Microeconometric Methods
+- STATA Computer Classes
+- The Politics of Economics and the Economics of Politicians
 
 ---
 
-## Teaching Materials
+## Graduate Teaching Assistant
+**The University of Nottingham**  
+*October 2016 – August 2019*
 
-Selected course materials and resources:
+**School of Economics:**
+- Mathematical Economics and Econometrics
+- Microeconomic Theory
+- Quantitative Economics I and II
+- Industrial Economics
+- Economic Perspectives
 
-- [Python for Economists — Introductory Notebooks](#) *(coming soon)*
-- [Mathematical Finance Problem Sets](#) *(coming soon)*
+**Business School:**
+- MSc Managerial Economics module
+- Economic Principles
 
 ---
 
-## Student Resources
+## Mathematics Lecturer
+**The University of Texas at El Paso, Math Department**  
+*August 2015 – December 2015*
 
-### Office Hours
-[Days/Times], [Location] or by appointment
-
-### Advising
-I advise undergraduate and masters students interested in:
-- Public finance and fiscal policy
-- Political economy
-- Applied game theory
-- Quantitative methods for social sciences
-
-Interested in working together? Send me an email with your CV and research interests.
+- MATH1319 - Math for Liberal Arts
+- MATH1320 - Math for Social Sciences
+- MATH1411 - Calculus I

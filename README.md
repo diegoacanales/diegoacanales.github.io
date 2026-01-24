@@ -51,14 +51,21 @@ diegoacanales.github.io/
 
 ## Customization Checklist
 
-- [ ] Add `assets/img/profile.jpg` (your photo)
-- [ ] Update `_config.yml` with your details
-- [ ] Edit `index.md` with your bio
-- [ ] Add papers to `_pages/research.md`
-- [ ] Upload PDFs to `assets/pdf/`
-- [ ] Update `_pages/teaching.md` with your courses
+- [ ] Add `assets/img/profile.jpg` — Download your photo from your Google Sites page and save it here
+- [x] Update `_config.yml` with your details ✓
+- [x] Edit `index.md` with your bio ✓
+- [x] Add papers to `_pages/research.md` ✓
+- [ ] Upload PDFs to `assets/pdf/` (your k-winners paper, CV)
+- [x] Update `_pages/teaching.md` with your courses ✓
 - [ ] Upload CV as `assets/pdf/canales_cv.pdf`
 - [ ] (Optional) Add Google Analytics ID to `_config.yml`
+
+### Getting Your Profile Photo
+
+Your current photo is hosted on Google Sites. To add it:
+1. Right-click your photo on https://sites.google.com/view/diegocanales/home
+2. Select "Save image as..." 
+3. Save as `profile.jpg` in `assets/img/`
 
 ## Adding a New Paper
 
