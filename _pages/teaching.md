@@ -6,7 +6,7 @@ permalink: /teaching/
 
 # Teaching
 
-## Full-Time Professor
+## Assistant Professor
 **Tecnológico de Monterrey, Campus Puebla** — Economics Department  
 *July 2022 – Present*
 
