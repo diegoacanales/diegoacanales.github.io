@@ -16,9 +16,13 @@ permalink: /cv/
 
 ## Academic Positions
 
+**Assistant Professor of Economics**  
+Tecnológico de Monterrey, Campus Puebla  
+*June 2026 – Present*
+
 **Full-time Professor of Economics**  
 Tecnológico de Monterrey, Campus Puebla  
-*July 2022 – Present*
+*July 2022 – June 2026*
 
 **Teaching Associate/Fellow**  
 University of Nottingham, School of Economics  

@@ -13,7 +13,7 @@ permalink: /
     <h1>Diego Armando Canales Martínez</h1>
     
     <p class="lead">
-      Full-time Professor of Economics<br>
+      Assistant Professor of Economics<br>
       <a href="https://tec.mx/en/puebla-campus">Tecnológico de Monterrey, Campus Puebla</a>
     </p>
     
