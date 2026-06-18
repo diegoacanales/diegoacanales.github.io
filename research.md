@@ -60,3 +60,56 @@ permalink: /research/
     the premiums and penalties fathers and mothers face.
   </p>
 </div>
+
+---
+
+## Empirical Projects
+
+<div class="publication">
+  <h3>Effects of Mandatory Pretrial Detention in Mexico</h3>
+  <p class="venue"><em>In progress</em></p>
+  <p class="abstract">
+    A difference-in-differences evaluation of the April 2019 constitutional expansion of 
+    mandatory pretrial detention (<em>prisión preventiva oficiosa</em>) to home burglary, 
+    comparing affected defendants with those charged for similar property offenses never 
+    subject to the mandate. Using the ENPOL 2016 and 2021 surveys of the incarcerated 
+    population (INEGI), the project examines effects on pretrial detention status, plea 
+    behavior, time to sentence, and sentence length.
+  </p>
+</div>
+
+<div class="publication">
+  <h3>Economic Effects of the 2017 Puebla–Morelos Earthquake</h3>
+  <p class="venue"><em>In progress · abstracts submitted to ICUH 2026 and the UK Stata Conference 2026</em></p>
+  <p class="abstract">
+    A continuous-treatment difference-in-differences design that uses ShakeMap ground-motion 
+    intensity to estimate the earthquake's effect on local economic activity, measured by 
+    establishment counts, with heterogeneity by pre-existing economic complexity. The project 
+    draws on the DENUE business register (INEGI) and census geographies, and includes a 
+    methodological assessment of how well the business register captures firm entry and exit.
+  </p>
+</div>
+
+<div class="publication">
+  <h3>Within-Person Drivers of BMI Change in Aging Mexico</h3>
+  <p class="venue"><em>Abstract and poster submitted to IOR 2026 (Congreso Internacional de Investigación sobre Obesidad)</em></p>
+  <p class="abstract">
+    A fixed-effects panel analysis examining whether the cross-sectional wealth–BMI gradient 
+    reflects a within-person causal relationship or stable between-person heterogeneity, 
+    alongside the roles of depression and multimorbidity. The study uses the Mexican Health 
+    and Aging Study (MHAS/ENASEM), Harmonized version, spanning 2001–2021 and roughly 18,000 
+    older adults.
+  </p>
+</div>
+
+<div class="publication">
+  <h3>Índice de Gentrificación Comercial (IGC) — National</h3>
+  <p class="venue"><em>In progress · supervised research project</em></p>
+  <p class="abstract">
+    Construction of a commercial-gentrification index from the composition of local businesses, 
+    validated in Mexico City against short-term-rental prices through a spatial lag model and 
+    local indicators of spatial association, and scaled to Mexico's metropolitan zones. The 
+    project combines the DENUE business register (INEGI), the System of National Urban Centers 
+    (SUN, SEDATU), and Inside Airbnb data.
+  </p>
+</div>
