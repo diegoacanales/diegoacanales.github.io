@@ -58,9 +58,9 @@ permalink: /
     <h3>Research Interests</h3>
     <ul>
       <li>Political Economy</li>
-      <li>Game Theory</li>
-      <li>Electoral Competition</li>
-      <li>Voting & Nomination Systems</li>
+      <li>Electoral Competition &amp; Nomination Systems</li>
+      <li>Development and Urban Economics</li>
+      <li>Economic History</li>
     </ul>
     
     <h3>Contact</h3>
