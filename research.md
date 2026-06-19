@@ -33,7 +33,6 @@ permalink: /research/
 
 <div class="publication">
   <h3>Electoral Competition and the Design of Tax and Spending Policies in Sequential Elections</h3>
-  <p class="venue"><em>Under review at Public Choice</em></p>
   <p class="abstract">
     This paper develops a political economy model analyzing how primary election formats — open 
     versus closed — affect both the ideological moderation and productive efficiency of fiscal 
