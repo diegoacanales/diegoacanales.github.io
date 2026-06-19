@@ -39,6 +39,17 @@ permalink: /
     </p>
     
     <p>
+      Alongside this theoretical agenda, I pursue a program of empirical work that applies causal 
+      inference methods to questions in development, urban, and historical economics. Current projects 
+      estimate the effects of mandatory pretrial detention in Mexico using difference-in-differences 
+      designs, study intergenerational occupational mobility among Mexican-origin populations in the 
+      nineteenth-century American Southwest exploiting the Treaty of Guadalupe Hidalgo as a natural 
+      experiment, and examine the economic aftereffects of the 2017 Puebla-Morelos earthquake on local 
+      business activity. I also work on urban questions, including the construction of commercial 
+      gentrification indices and high-frequency housing price measures from short-term rental data.
+    </p>
+
+    <p>
       I received my PhD in Economics from the <strong>University of Nottingham</strong>. My agenda aims 
       to contribute to the design and evaluation of democratic institutions by combining rigorous theory 
       with clear, interpretable implications for reform discussions on voting and nomination systems.
