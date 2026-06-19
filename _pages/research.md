@@ -32,6 +32,24 @@ permalink: /research/
 ## Working Papers
 
 <div class="publication">
+  <h3>Electoral Competition and the Design of Tax and Spending Policies in Sequential Elections</h3>
+  <p class="venue"><em>Under review at Public Choice</em></p>
+  <p class="abstract">
+    This paper develops a political economy model analyzing how primary election formats — open 
+    versus closed — affect both the ideological moderation and productive efficiency of fiscal 
+    policy. We characterize subgame perfect Nash equilibria in a sequential election game where 
+    voters first nominate candidates in party primaries, then elect officials in a general 
+    election. Our main contribution is identifying sufficient conditions under which (1) open 
+    primaries produce moderate but inefficient government spending, while (2) closed primaries 
+    produce efficient but polarized fiscal policy. These results reveal a previously unrecognized 
+    trade-off in electoral system design: open primaries favor policies closer to the median 
+    voter's preferences at the cost of government efficiency, while closed primaries may deliver 
+    efficient public goods provision at the cost of ideological extremism. The findings have 
+    implications for ongoing debates about primary election reform in democratic systems.
+  </p>
+</div>
+
+<div class="publication">
   <h3>The Case of American Presidential Primaries: A Model of Sequential Primary Elections</h3>
   <p class="abstract">
     We present a theoretical model to analyse two phenomena surrounding sequential elections: 
