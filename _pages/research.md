@@ -126,3 +126,14 @@ permalink: /research/
   </p>
   <p class="venue">Data: DENUE (INEGI), SUN 2020 (SEDATU), Inside Airbnb · Methods: Spatial lag, LISA · Status: National expansion phase; supervised research project</p>
 </div>
+
+<div class="publication">
+  <h3>High-Frequency Housing Price Indices from Short-Term Rental Data</h3>
+  <p class="abstract">
+    Working project exploring the construction of high-frequency, intra-urban housing price 
+    indices for Mexico City from historical Inside Airbnb listings, benchmarked against the 
+    official INPC housing component. The goal is to produce a real-time price signal where 
+    official indices are released with a lag.
+  </p>
+  <p class="venue">Data: Inside Airbnb (CDMX), INPC (INEGI/Banxico) · Status: Early stage; supervised research project</p>
+</div>
