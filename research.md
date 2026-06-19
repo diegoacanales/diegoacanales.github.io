@@ -60,3 +60,80 @@ permalink: /research/
     the premiums and penalties fathers and mothers face.
   </p>
 </div>
+
+---
+
+## Empirical Projects
+
+<div class="publication">
+  <h3>Treaty Citizens and Immigrants: Intergenerational Mobility Among Mexican-Origin Populations in the American Southwest, 1850–1940</h3>
+  <p class="abstract">
+    The Treaty of Guadalupe Hidalgo (1848) granted U.S. citizenship overnight to approximately 
+    80,000 Mexican nationals residing in the ceded territories — the largest such grant in U.S. 
+    history. This paper provides the first quantitative estimates of intergenerational occupational 
+    mobility for Mexican-origin families in Texas, California, New Mexico, and Arizona from 1850 
+    to 1940, using the IPUMS Multigenerational Longitudinal Panel (645 million linked census 
+    records). Comparing "treaty citizens" (fathers born in the Southwest before 1848) to Mexican 
+    immigrants and white natives isolates the effect of formal citizenship from other dimensions 
+    of ethnic disadvantage. Results show that children of treaty citizens carried a larger 
+    occupational penalty than children of Mexican immigrants, despite holding citizenship from 
+    birth — suggesting that de jure citizenship did not deliver de facto economic incorporation.
+  </p>
+  <p class="venue">Data: IPUMS MLP v2.0 · Methods: OLS, rank-rank correlations, inverse probability weighting · Status: Poster presented</p>
+</div>
+
+<div class="publication">
+  <h3>Effects of Mandatory Pretrial Detention in Mexico</h3>
+  <p class="abstract">
+    Difference-in-differences evaluation of the April 2019 constitutional expansion of mandatory 
+    pretrial detention (<em>prisión preventiva oficiosa</em>) to home burglary, using treated versus 
+    comparable property offenses as the control group. Data: ENPOL 2016 and 2021 
+    incarcerated-population surveys (INEGI). Outcomes include detention status, plea behavior, 
+    time to sentence, and sentence length.
+  </p>
+  <p class="venue">Data: ENPOL 2016 &amp; 2021 (INEGI) · Methods: Difference-in-differences · Status: Empirical core complete; two-paper agenda in progress</p>
+</div>
+
+<div class="publication">
+  <h3>Economic Effects of the 2017 Puebla–Morelos Earthquake</h3>
+  <p class="abstract">
+    Continuous-treatment difference-in-differences design using ShakeMap intensity to estimate 
+    the earthquake's effect on local establishment counts, with heterogeneity by pre-existing 
+    economic complexity. A secondary contribution audits the reliability of the DENUE business 
+    register for measuring entry and exit. Abstracts submitted to the International Conference 
+    on Urban Health (ICUH) 2026 and the UK Stata Conference 2026.
+  </p>
+  <p class="venue">Data: DENUE 2015–2019 (INEGI) · Methods: Continuous-treatment DiD, long-differences · Status: Primary analysis underway; supervised research project</p>
+</div>
+
+<div class="publication">
+  <h3>Within-Person Drivers of BMI Change in Aging Mexico</h3>
+  <p class="abstract">
+    Fixed-effects panel analysis showing that the cross-sectional wealth–BMI gradient largely 
+    reflects between-person heterogeneity rather than a within-person causal effect, with 
+    depression and multimorbidity emerging as the main health drivers. Abstract submitted to 
+    the International Congress on Obesity Research (IOR) 2026, Monterrey.
+  </p>
+  <p class="venue">Data: MHAS/ENASEM Harmonized 2001–2021 (~18,000 respondents) · Methods: Fixed-effects panel · Status: Abstract submitted to IOR 2026</p>
+</div>
+
+<div class="publication">
+  <h3>Índice de Gentrificación Comercial — National Scale</h3>
+  <p class="abstract">
+    Construction of a commercial gentrification index from business-census composition, validated 
+    in Mexico City against short-term-rental prices using spatial lag models and LISA hotspot 
+    analysis, and scaled to Mexico's 74 metropolitan zones.
+  </p>
+  <p class="venue">Data: DENUE (INEGI), SUN 2020 (SEDATU), Inside Airbnb · Methods: Spatial lag, LISA · Status: National expansion phase; supervised research project</p>
+</div>
+
+<div class="publication">
+  <h3>High-Frequency Housing Price Indices from Short-Term Rental Data</h3>
+  <p class="abstract">
+    Working project exploring the construction of high-frequency, intra-urban housing price 
+    indices for Mexico City from historical Inside Airbnb listings, benchmarked against the 
+    official INPC housing component. The goal is to produce a real-time price signal where 
+    official indices are released with a lag.
+  </p>
+  <p class="venue">Data: Inside Airbnb (CDMX), INPC (INEGI/Banxico) · Status: Early stage; supervised research project</p>
+</div>
