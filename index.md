@@ -23,7 +23,9 @@ permalink: /
       strategic behavior and, in turn, political and economic outcomes—especially when those rules 
       govern who gets nominated, who can vote, and how collective decisions aggregate preferences into policy. 
       I develop formal models to clarify the incentives faced by voters, candidates, and parties, and to 
-      identify the welfare trade-offs that arise from alternative institutional designs.
+      identify the welfare trade-offs that arise from alternative institutional designs. Alongside this 
+      theoretical work, I use causal inference methods to evaluate how specific institutional changes 
+      play out in practice, with a particular focus on Latin American and Mexican institutions.
     </p>
     
     <p>

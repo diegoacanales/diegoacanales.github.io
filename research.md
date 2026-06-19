@@ -94,7 +94,7 @@ permalink: /research/
     immigrants and white natives isolates the effect of formal citizenship from other dimensions 
     of ethnic disadvantage. Results show that children of treaty citizens carried a larger 
     occupational penalty than children of Mexican immigrants, despite holding citizenship from 
-    birth — suggesting that de jure citizenship did not deliver de facto economic incorporation.
+    birth, suggesting that de jure citizenship did not deliver de facto economic incorporation.
   </p>
   <p class="venue">Data: IPUMS MLP v2.0 · Methods: OLS, rank-rank correlations, inverse probability weighting · Status: Poster presented</p>
 </div>
