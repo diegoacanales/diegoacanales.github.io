@@ -86,17 +86,21 @@ permalink: /research/
   <h3>Treaty Citizens and Immigrants: Intergenerational Mobility Among Mexican-Origin Populations in the American Southwest, 1850–1940</h3>
   <p class="abstract">
     The Treaty of Guadalupe Hidalgo (1848) granted U.S. citizenship overnight to approximately 
-    80,000 Mexican nationals residing in the ceded territories — the largest such grant in U.S. 
-    history. This paper provides the first quantitative estimates of intergenerational occupational 
-    mobility for Mexican-origin families in Texas, California, New Mexico, and Arizona from 1850 
-    to 1940, using the IPUMS Multigenerational Longitudinal Panel (645 million linked census 
-    records). Comparing "treaty citizens" (fathers born in the Southwest before 1848) to Mexican 
-    immigrants and white natives isolates the effect of formal citizenship from other dimensions 
-    of ethnic disadvantage. Results show that children of treaty citizens carried a larger 
-    occupational penalty than children of Mexican immigrants, despite holding citizenship from 
-    birth, suggesting that de jure citizenship did not deliver de facto economic incorporation.
+    80,000 Mexican nationals residing in the ceded territories, the largest such grant in U.S. 
+    history. Using the IPUMS Multigenerational Longitudinal Panel, this paper follows sons of 
+    "treaty citizens" (fathers born in the Southwest before 1848), sons of Mexican immigrants, 
+    and sons of white natives from childhood into adulthood across linked census waves 
+    (1850&ndash;1930). Formal citizenship conferred no measurable advantage: sons of treaty 
+    citizens and sons of immigrants faced statistically indistinguishable trajectories. The 
+    disadvantage operated through transmission rather than levels. Among white natives a 
+    father's occupational standing strongly predicts his son's (rank-rank slope 0.38); among 
+    treaty families the gradient is nearly flat (0.07), so sons of successful fathers ended up 
+    no better than sons of unsuccessful ones. Literacy transmission remained intact, pointing 
+    to property and labor-market channels rather than family human capital. A methodological 
+    contribution shows that same-census co-residence designs inflate level penalties threefold 
+    relative to longitudinally linked samples.
   </p>
-  <p class="venue">Data: IPUMS MLP v2.0 · Methods: OLS, rank-rank correlations, inverse probability weighting · Status: Poster presented</p>
+  <p class="venue">Data: IPUMS MLP v2.0 · Methods: HIK-linked child-to-adult panel, rank-rank correlations, OLS with cohort, state, and census-year fixed effects · Status: Poster, IPUMS Data-Intensive Research Conference 2026 (Minneapolis)</p>
 </div>
 
 <div class="publication">
