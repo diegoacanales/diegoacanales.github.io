@@ -62,7 +62,7 @@ Tecnológico de Monterrey, Campus Ciudad Juárez
 ## Research Fields
 
 - Primary: Political Economy, Game Theory, Electoral Competition
-- Secondary: Applied Microeconomics (Labor & Health Economics), Economic History & Intergenerational Mobility, Urban & Disaster Economics
+- Secondary: Labor Economics, Health Economics, Economic History, Urban Economics
 
 ---
 
