@@ -77,7 +77,7 @@ permalink: /research/
     analogous gradient for fathers, and the informality&ndash;age profile loads entirely on informal 
     jobs. Findings are presented descriptively, not causally.
   </p>
-  <p class="venue">Data: ENIGH 2016&ndash;2024 (INEGI) · Methods: Kleven-style pseudo-event study, state&ndash;year&ndash;child-age panel, wild cluster bootstrap SE · Status: Draft complete; in preparation for <em>Review of Economics of the Household</em></p>
+  <p class="venue">Data: ENIGH 2016&ndash;2024 (INEGI) · Methods: Kleven-style pseudo-event study, state&ndash;year&ndash;child-age panel, wild cluster bootstrap SE · Status: Draft complete</p>
 </div>
 
 ---
