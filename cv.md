@@ -54,7 +54,8 @@ University of Texas at El Paso
 Universidad Autónoma de Ciudad Juárez
 
 **B.A. in International Business**  
-Tecnológico de Monterrey, Campus Ciudad Juárez
+Tecnológico de Monterrey, Campus Ciudad Juárez  
+2013
 
 ---
 
