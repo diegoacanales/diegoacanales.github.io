@@ -133,7 +133,7 @@ permalink: /research/
     economic complexity. A companion methodological paper audits the reliability of the DENUE 
     business register for measuring entry and exit. With Manuel Enríquez.
   </p>
-  <p class="venue">Data: DENUE 2015–2019 (INEGI) · Methods: Continuous-treatment DiD, staggered DiD · Status: Both drafts complete; in preparation for <em>Economics of Disasters and Climate Change</em> (reconstruction paper) and the <em>Stata Journal</em> (DENUE audit paper) · Accepted: UK Stata Conference 2026 (audit paper) and ICUH 2026 (reconstruction paper)</p>
+  <p class="venue">Data: DENUE 2015–2019 (INEGI) · Methods: Continuous-treatment DiD, staggered DiD · Status: Both drafts complete; in preparation for <em>Economics of Disasters and Climate Change</em> (reconstruction paper) and the <em>Stata Journal</em> (DENUE audit paper) · Accepted, UK Stata Conference 2026 (audit paper) and ICUH 2026 (reconstruction paper)</p>
 </div>
 
 <div class="publication">
