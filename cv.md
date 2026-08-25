@@ -71,10 +71,22 @@ Tecnológico de Monterrey, Campus Ciudad Juárez
 
 ---
 
-## Working Papers
+## Working Papers & Under Review
 
-1. "The Case of American Presidential Primaries: A Model of Sequential Primary Elections"
-2. "Analysing the economic effect of parenting decisions: Mexican families à la Goldin"
+1. "Electoral Competition and the Design of Tax and Spending Policies in Sequential Elections." *Under review (major revision), Public Choice.*
+2. "The Case of American Presidential Primaries: A Model of Sequential Primary Elections"
+3. "Analysing the economic effect of parenting decisions: Mexican families à la Goldin"
+4. "Within-Person Drivers of BMI Change in Aging Mexico"
+5. "Treaty Citizens and Immigrants: Intergenerational Mobility Among Mexican-Origin Populations in the American Southwest, 1850–1940"
+6. Canales, D.A. and Enríquez, M. "How Much Economic Dynamics Does a Business Register See? Auditing Mexico's DENUE, with an Application to the 2017 Puebla–Morelos Earthquake." *In preparation for Stata Journal.*
+7. Canales, D.A. and Enríquez, M. "Damage or Dollars? Reconstruction Booms After the 2017 Puebla–Morelos Earthquake." *In preparation for Economics of Disasters and Climate Change.*
+
+---
+
+## Presentations & Posters
+
+- "Within-Person Drivers of BMI Change in Aging Mexico." International Congress on Obesity Research (IOR), Monterrey, 2026.
+- "Treaty Citizens and Immigrants: Intergenerational Mobility Among Mexican-Origin Populations in the American Southwest, 1850–1940." IPUMS Data-Intensive Research Conference, Minneapolis, 2026.
 
 ---
 

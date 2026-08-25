@@ -6,9 +6,9 @@ permalink: /teaching/
 
 # Teaching
 
-## Assistant Professor
+## Assistant Professor / Full-time Professor
 **Tecnológico de Monterrey, Campus Puebla** — Economics Department  
-*July 2022 – Present*
+*Full-time Professor, July 2022 – June 2026; Assistant Professor, June 2026 – Present*
 
 - EC1014 - Microeconomics
 - EC1015 - Behavioural Economics

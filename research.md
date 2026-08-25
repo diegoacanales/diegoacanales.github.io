@@ -120,11 +120,10 @@ permalink: /research/
   <p class="abstract">
     Continuous-treatment difference-in-differences design using ShakeMap intensity to estimate 
     the earthquake's effect on local establishment counts, with heterogeneity by pre-existing 
-    economic complexity. A secondary contribution audits the reliability of the DENUE business 
-    register for measuring entry and exit. Abstracts submitted to the International Conference 
-    on Urban Health (ICUH) 2026 and the UK Stata Conference 2026.
+    economic complexity. A companion methodological paper audits the reliability of the DENUE 
+    business register for measuring entry and exit. With Manuel Enríquez.
   </p>
-  <p class="venue">Data: DENUE 2015–2019 (INEGI) · Methods: Continuous-treatment DiD, long-differences · Status: Primary analysis underway; supervised research project</p>
+  <p class="venue">Data: DENUE 2015–2019 (INEGI) · Methods: Continuous-treatment DiD, staggered DiD · Status: Both drafts complete; in preparation for <em>Economics of Disasters and Climate Change</em> (reconstruction paper) and the <em>Stata Journal</em> (DENUE audit paper)</p>
 </div>
 
 <div class="publication">
