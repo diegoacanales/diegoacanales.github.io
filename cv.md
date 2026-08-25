@@ -63,7 +63,6 @@ Tecnológico de Monterrey, Campus Ciudad Juárez
 
 - Primary: Political Economy, Game Theory, Electoral Competition
 - Secondary: Applied Microeconomics (Labor & Health Economics), Economic History & Intergenerational Mobility, Urban & Disaster Economics
-- Tertiary: Voting & Nomination Systems, Institutional Design
 
 ---
 
