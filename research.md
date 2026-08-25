@@ -49,6 +49,16 @@ permalink: /research/
 </div>
 
 <div class="publication">
+  <h3>Testamento digital vs. testamento de bienes digitales: estado del arte en los códigos civiles mexicanos e iberoamericanos</h3>
+  <p class="abstract">
+    A taxonomic study (in Spanish) of "digital will," "electronic will," and "digital-assets will" 
+    across the 32 Mexican civil codes and 14 Ibero-American jurisdictions. Proposes a three-axis 
+    taxonomy (nature of the act × means of execution × object) and uses it to diagnose a structural 
+    mismatch between legislative labels and the legal regimes they actually establish.
+  </p>
+</div>
+
+<div class="publication">
   <h3>The Case of American Presidential Primaries: A Model of Sequential Primary Elections</h3>
   <p class="abstract">
     We present a theoretical model to analyse two phenomena surrounding sequential elections: 
@@ -123,7 +133,7 @@ permalink: /research/
     economic complexity. A companion methodological paper audits the reliability of the DENUE 
     business register for measuring entry and exit. With Manuel Enríquez.
   </p>
-  <p class="venue">Data: DENUE 2015–2019 (INEGI) · Methods: Continuous-treatment DiD, staggered DiD · Status: Both drafts complete; in preparation for <em>Economics of Disasters and Climate Change</em> (reconstruction paper) and the <em>Stata Journal</em> (DENUE audit paper)</p>
+  <p class="venue">Data: DENUE 2015–2019 (INEGI) · Methods: Continuous-treatment DiD, staggered DiD · Status: Both drafts complete; in preparation for <em>Economics of Disasters and Climate Change</em> (reconstruction paper) and the <em>Stata Journal</em> (DENUE audit paper) · Accepted: UK Stata Conference 2026 (audit paper) and ICUH 2026 (reconstruction paper)</p>
 </div>
 
 <div class="publication">
