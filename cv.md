@@ -81,7 +81,6 @@ Tecnológico de Monterrey, Campus Ciudad Juárez
 5. "Treaty Citizens and Immigrants: Intergenerational Mobility Among Mexican-Origin Populations in the American Southwest, 1850–1940"
 6. Canales, D.A. and Enríquez, M. "How Much Economic Dynamics Does a Business Register See? Auditing Mexico's DENUE, with an Application to the 2017 Puebla–Morelos Earthquake." *In preparation for Stata Journal.*
 7. Canales, D.A. and Enríquez, M. "Damage or Dollars? Reconstruction Booms After the 2017 Puebla–Morelos Earthquake." *In preparation for Economics of Disasters and Climate Change.*
-8. "Testamento digital vs. testamento de bienes digitales: estado del arte en los códigos civiles mexicanos e iberoamericanos"
 
 ---
 

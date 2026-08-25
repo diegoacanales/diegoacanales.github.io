@@ -48,15 +48,6 @@ permalink: /research/
   </p>
 </div>
 
-<div class="publication">
-  <h3>Testamento digital vs. testamento de bienes digitales: estado del arte en los códigos civiles mexicanos e iberoamericanos</h3>
-  <p class="abstract">
-    A taxonomic study (in Spanish) of "digital will," "electronic will," and "digital-assets will" 
-    across the 32 Mexican civil codes and 14 Ibero-American jurisdictions. Proposes a three-axis 
-    taxonomy (nature of the act × means of execution × object) and uses it to diagnose a structural 
-    mismatch between legislative labels and the legal regimes they actually establish.
-  </p>
-</div>
 
 <div class="publication">
   <h3>The Case of American Presidential Primaries: A Model of Sequential Primary Elections</h3>
