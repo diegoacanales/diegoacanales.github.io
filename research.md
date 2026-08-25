@@ -66,17 +66,18 @@ permalink: /research/
 </div>
 
 <div class="publication">
-  <h3>Analysing the economic effect of parenting decisions: Mexican families à la Goldin</h3>
+  <h3>Subnational Heterogeneity in Maternal Employment Recovery from Child Penalties: Descriptive Evidence from Mexico</h3>
   <p class="abstract">
-    The formation of households with children has historically been the default model for the 
-    development of any society. The increase in birth rates underpins theories such as human 
-    capital and exogenous growth models. However, the configuration of the labour market 
-    continues to penalize women in salaries, particularly due to their maternity conditions. 
-    Taking care of homes represents an opportunity cost that ends up slowing down professional 
-    development (Goldin, 2022; Goldin, 1994; Goldin, 2004). In this study, we analyse how 
-    households with children disproportionately contribute to income inequality, explaining 
-    the premiums and penalties fathers and mothers face.
+    Documents child penalties on maternal employment across Mexico's 32 states using a 
+    pseudo-event study on pooled cross-sections from the ENIGH (2016&ndash;2024, N&asymp;450,000 
+    parents). The initial mother&ndash;father employment gap averages ~52 percentage points; the 
+    state-level standard deviation of that gap is 4.2 pp, while the standard deviation of maternal 
+    recovery as children age is larger in both absolute and relative terms. The association 
+    between local informality and maternal employment grows monotonically with child age, with no 
+    analogous gradient for fathers, and the informality&ndash;age profile loads entirely on informal 
+    jobs. Findings are presented descriptively, not causally.
   </p>
+  <p class="venue">Data: ENIGH 2016&ndash;2024 (INEGI) · Methods: Kleven-style pseudo-event study, state&ndash;year&ndash;child-age panel, wild cluster bootstrap SE · Status: Draft complete; in preparation for <em>Review of Economics of the Household</em></p>
 </div>
 
 ---
