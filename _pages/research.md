@@ -87,20 +87,20 @@ permalink: /research/
   <p class="abstract">
     The Treaty of Guadalupe Hidalgo (1848) granted U.S. citizenship overnight to approximately 
     80,000 Mexican nationals residing in the ceded territories, the largest such grant in U.S. 
-    history. Using the IPUMS Multigenerational Longitudinal Panel, this paper follows sons of 
-    "treaty citizens" (fathers born in the Southwest before 1848), sons of Mexican immigrants, 
-    and sons of white natives from childhood into adulthood across linked census waves 
-    (1850&ndash;1930). Formal citizenship conferred no measurable advantage: sons of treaty 
-    citizens and sons of immigrants faced statistically indistinguishable trajectories. The 
-    disadvantage operated through transmission rather than levels. Among white natives a 
-    father's occupational standing strongly predicts his son's (rank-rank slope 0.38); among 
-    treaty families the gradient is nearly flat (0.07), so sons of successful fathers ended up 
-    no better than sons of unsuccessful ones. Literacy transmission remained intact, pointing 
-    to property and labor-market channels rather than family human capital. A methodological 
+    history. Using 12 million father-son pairs linked across full-count censuses 
+    (1850&ndash;1930) in the IPUMS Multigenerational Longitudinal Panel, this paper follows 
+    sons of "treaty citizens" (fathers born in the Southwest before 1848), sons of Mexican 
+    immigrants, and sons of white natives from childhood into adulthood anywhere in the United 
+    States. The rank-rank transmission of occupational status is 0.37 for white natives, 0.20 
+    for immigrant families, and 0.09 for treaty families: citizenship at birth came with less 
+    transmission than no citizenship at all. The mechanism points to property. Treaty fathers 
+    were more likely to own land than whites but held far smaller values, and paternal wealth 
+    yielded 40 percent less status for their sons, while literacy transmission remained fully 
+    intact, consistent with land titles exposed to litigation after 1848. A methodological 
     contribution shows that same-census co-residence designs inflate level penalties threefold 
     relative to longitudinally linked samples.
   </p>
-  <p class="venue">Data: IPUMS MLP v2.0 · Methods: HIK-linked child-to-adult panel, rank-rank correlations, OLS with cohort, state, and census-year fixed effects · Status: Poster, IPUMS Data-Intensive Research Conference 2026 (Minneapolis)</p>
+  <p class="venue">Data: IPUMS MLP v2.0, 12M linked father-son pairs · Methods: HIK-linked child-to-adult panel, rank-rank correlations, OLS with cohort, state, and census-year fixed effects · Status: Poster, IPUMS Data-Intensive Research Conference 2026 (Minneapolis)</p>
 </div>
 
 <div class="publication">
