@@ -87,9 +87,9 @@ Tecnológico de Monterrey, Campus Ciudad Juárez
 ## Presentations & Posters
 
 - "Within-Person Drivers of BMI Change in Aging Mexico." International Congress on Obesity Research (IOR), Monterrey, 2026.
-- "Treaty Citizens and Immigrants: Intergenerational Mobility Among Mexican-Origin Populations in the American Southwest, 1850–1940." IPUMS Data-Intensive Research Conference, Minneapolis, 2026.
+- "Treaty Citizens and Immigrants: Intergenerational Mobility Among Mexican-Origin Populations in the American Southwest, 1850–1940." IPUMS Data-Intensive Research Conference, Minneapolis, July 2026. *Poster.*
 - Canales, D.A. and Enríquez, M. "How Much Economic Dynamics Does a Business Register See? Auditing Mexico's DENUE, with an Application to the 2017 Puebla–Morelos Earthquake." UK Stata Conference, London, September 2026. *Accepted.*
-- Canales, D.A. and Enríquez, M. "Urban Commercial Resilience as a Determinant of Post-Disaster Health Access: Evidence from the 2017 Mexico Earthquake." International Conference on Urban Health (ICUH), 2026. *Accepted.*
+- Enríquez, M. and Canales, D.A. "Resilience for Whom? Pre-Disaster Economic Diversity and Inequalities in Post-Disaster Service Access After Mexico's 2017 Earthquake." 22nd International Conference on Urban Health (ICUH), Mexico City, October 2026. *Oral presentation.*
 
 ---
 
