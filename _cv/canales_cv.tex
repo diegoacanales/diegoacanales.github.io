@@ -1,0 +1,101 @@
+% Source for assets/pdf/canales_cv.pdf
+% Build: pdflatex canales_cv.tex (run from this folder), then copy the PDF to ../assets/pdf/
+\documentclass[11pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[margin=2.2cm]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{tabularx}
+\usepackage{xcolor}
+\usepackage[hidelinks]{hyperref}
+
+\definecolor{accent}{HTML}{1F3A5F}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\titleformat{\section}{\large\bfseries\scshape\color{accent}}{}{0pt}{}[\vspace{-0.6ex}{\color{accent}\rule{\textwidth}{0.5pt}}]
+\titlespacing*{\section}{0pt}{1.6ex}{1.0ex}
+\setlist{leftmargin=1.2em, itemsep=0.35ex, topsep=0.3ex}
+
+% \entry{title}{date}{institution}
+\newcommand{\entry}[3]{%
+  \textbf{#1}\hfill #2\\
+  #3\par\vspace{0.8ex}}
+
+\begin{document}
+
+{\LARGE\bfseries Diego A. Canales}\par\vspace{0.6ex}
+Department of Economics, Tecnológico de Monterrey, Campus Puebla\par
+\href{mailto:diego.canales@tec.mx}{diego.canales@tec.mx} \;$\cdot$\;
+\href{https://diegoacanales.github.io}{diegoacanales.github.io}\\
+\href{https://www.linkedin.com/in/diego-canales/}{linkedin.com/in/diego-canales} \;$\cdot$\;
+ORCID \href{https://orcid.org/0009-0007-7436-7736}{0009-0007-7436-7736}\par
+
+\section{Academic Positions}
+\entry{Assistant Professor of Economics}{June 2026 -- Present}{Tecnológico de Monterrey, Campus Puebla}
+\entry{Full-time Professor of Economics}{July 2022 -- June 2026}{Tecnológico de Monterrey, Campus Puebla}
+\entry{Teaching Associate/Fellow}{September 2019 -- August 2022}{University of Nottingham, School of Economics}
+\entry{UG/PG Dissertation Supervisor}{October 2019 -- August 2022}{University of Nottingham, School of Economics}
+\entry{Graduate Teaching Assistant}{October 2016 -- August 2019}{University of Nottingham, School of Economics and Business School}
+\entry{Mathematics Lecturer}{August 2015 -- December 2015}{University of Texas at El Paso, Mathematics Department}
+
+\section{Education}
+\entry{PhD in Economics}{2021}{University of Nottingham, School of Economics, United Kingdom}
+\entry{M.Sc. in Mathematics}{2014}{University of Texas at El Paso}
+\entry{M.A. in Economics}{2014}{Universidad Autónoma de Ciudad Juárez}
+\entry{B.A. in International Business}{2013}{Tecnológico de Monterrey, Campus Ciudad Juárez}
+\entry{B.Sc. in Applied Mathematics}{2011}{University of Texas at El Paso}
+
+\section{Research Fields}
+\textbf{Primary:} Political Economy, Game Theory, Electoral Competition\\
+\textbf{Secondary:} Applied Microeconomics, Economic History
+
+\section{Publications}
+\begin{enumerate}
+  \item \textbf{Canales, D.A.} (2025). ``A Spatial Model with k-winners.'' \textit{Games}, 16(1), 6. \href{https://doi.org/10.3390/g16010006}{doi:10.3390/g16010006}
+\end{enumerate}
+
+\section{Working Papers \& Under Review}
+\begin{enumerate}
+  \item ``Electoral Competition and the Design of Tax and Spending Policies in Sequential Elections.''
+  \item ``The Case of American Presidential Primaries: A Model of Sequential Primary Elections.''
+  \item ``Subnational Heterogeneity in Maternal Employment Recovery from Child Penalties: Descriptive Evidence from Mexico.''
+  \item ``Within-Person Drivers of BMI Change in Aging Mexico.''
+  \item ``Treaty Citizens and Immigrants: Intergenerational Mobility Among Mexican-Origin Populations in the American Southwest, 1850--1940.''
+  \item Canales, D.A. and Enríquez, M. ``How Much Economic Dynamics Does a Business Register See? Auditing Mexico's DENUE, with an Application to the 2017 Puebla--Morelos Earthquake.'' \textit{In preparation for Stata Journal.}
+  \item Canales, D.A. and Enríquez, M. ``Damage or Dollars? Reconstruction Booms After the 2017 Puebla--Morelos Earthquake.'' \textit{In preparation for Economics of Disasters and Climate Change.}
+\end{enumerate}
+
+\section{Presentations \& Posters}
+\begin{itemize}
+  \item Enríquez, M. and Canales, D.A. ``Resilience for Whom? Pre-Disaster Economic Diversity and Inequalities in Post-Disaster Service Access After Mexico's 2017 Earthquake.'' 22nd International Conference on Urban Health (ICUH), Mexico City, October 2026. \textit{Oral presentation.}
+  \item Canales, D.A. and Enríquez, M. ``How Much Economic Dynamics Does a Business Register See? Auditing Mexico's DENUE, with an Application to the 2017 Puebla--Morelos Earthquake.'' UK Stata Conference, London, September 2026. \textit{Accepted.}
+  \item ``Treaty Citizens and Immigrants: Intergenerational Mobility Among Mexican-Origin Populations in the American Southwest, 1850--1940.'' IPUMS Data-Intensive Research Conference, Minneapolis, July 2026. \textit{Poster.}
+  \item ``Within-Person Drivers of BMI Change in Aging Mexico.'' International Congress on Obesity Research (IOR), Monterrey, 2026.
+  \item Junior Research Seminar, Puebla, Mexico, October 2023.
+  \item XI Congreso Internacional de Ciencia Política, Guadalajara, Mexico, October 2023.
+  \item Coloquio Mexicano de Economía Matemática y Econometría, Guanajuato, Mexico, September 2023.
+\end{itemize}
+
+\section{Awards and Scholarships}
+\begin{itemize}
+  \item Teaching in Excellence Award, Tecnológico de Monterrey, Campus Puebla, 2024
+  \item Educational Innovation Award, Tecnológico de Monterrey, Campus Puebla, 2024
+  \item Teaching in Excellence Award, University of Nottingham (2017/18, 2018/19, 2020/21)
+  \item Graduate Teaching Fellowship, University of Nottingham, 2018
+  \item CONACYT Doctoral and Master's Scholarship, Mexican Government (2012--2014, 2015--2019)
+\end{itemize}
+
+\section{Skills \& Qualifications}
+\begin{itemize}
+  \item Fellow of the Higher Education Academy (FHEA)
+  \item Preparing to Teach in Higher Education Certificate
+  \item Programming languages: R (Intermediate), Stata (Intermediate) and LaTeX (Advanced)
+  \item Fluent in English and Spanish
+\end{itemize}
+
+\vfill
+{\footnotesize\color{gray} Last updated: October 2026}
+
+\end{document}
